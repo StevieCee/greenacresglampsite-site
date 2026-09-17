@@ -427,6 +427,7 @@ p {
 .tag {
   display: inline-block;
   margin-bottom: 0.7rem;
+  margin-right: 0.4rem;
   padding: 0.45rem 0.7rem;
   border-radius: 999px;
   background: var(--sand);

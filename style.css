@@ -437,11 +437,15 @@ p {
   color: var(--sage-dark);
 }
 
-.amenities-list {
-  margin: 1rem 0 0;
-  padding-left: 1.1rem;
-  color: var(--ink);
-  font-weight: 600;
+.link-arrow {
+  display: inline-block;
+  margin-top: 0.4rem;
+  font-weight: 700;
+  color: var(--sage-dark);
+}
+
+.link-arrow:hover {
+  text-decoration: underline;
 }
 
 .site-footer {

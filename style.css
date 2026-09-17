@@ -400,6 +400,14 @@ p {
   object-fit: cover;
 }
 
+.airstream-photo {
+  width: 100%;
+  height: 340px;
+  padding: 2rem;
+  background: var(--white);
+  object-fit: contain;
+}
+
 .spec-card {
   padding: 1.7rem 1.4rem;
 }
